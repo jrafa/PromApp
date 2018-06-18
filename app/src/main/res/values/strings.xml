@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prom</string>
+    <string name="title">Prom Kultury Saska Kepa</string>
+    <string name="address">Brukselska 23\n03-973 Warsaw\nPoland</string>
+    <string name="phone">22 277 08 03</string>
+    <string name="website">promkultury.pl</string>
+    <string name="info">Community centre, Cinema, Art Gallery</string>
+    <string name="hours">10am - 6pm</string>
+</resources>
